@@ -1,0 +1,12 @@
+2022-08-25 09:40:00 alert  SetupcheckPassword[1B50]: Checking for password protection
+2022-08-25 09:40:05 alert  SetupCloseProcs[1B50]: Checking for running apps
+2022-08-25 09:40:05 alert  SetupRemove[1B50]: Started
+2022-08-25 09:40:05 alert  SetupRemove[1B50]: Processing GUI process
+2022-08-25 09:40:05 alert  SetupRemove[1B50]: Processing installation directory
+2022-08-25 09:40:05 alert  SetupRemove[1B50]: Done
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Installation started
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Stage 1
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Decryption error 1
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Decryption error 2
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Decryption error 3
+2022-08-25 09:40:13 alert  InstallFunc[1B50]: Decryption error 4
